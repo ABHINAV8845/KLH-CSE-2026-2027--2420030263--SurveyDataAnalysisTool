@@ -1,0 +1,5 @@
+#string.format(value1,value2)
+txt1="my name is {fname},I'm {age}".format(fname="abhi",age=21)
+txt2="my name is {0},I'm{1}".format("abhi",21)
+print(txt1)
+print(txt2)
